@@ -312,6 +312,8 @@ export default function App() {
     setSelectedId(null);
   };
 
+  useEffect();
+
   useEffect(() => {
     const controller = new AbortController();
 

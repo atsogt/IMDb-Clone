@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom/client";
-import App from "./App";
+// import App from "./App";
+import App from "./App-v2";
 import StarRating from "./StarRating";
 
 function Test() {
